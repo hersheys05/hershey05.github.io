@@ -1,0 +1,92 @@
+<html>
+	<head>
+		<title>Ventas</title>
+			<link rel="shorcut icon" href="logo2.png">
+			<link rel="stylesheet" href="estilo.css">
+
+	</head>
+<body>
+	<table class="sin">
+		<tr>
+			<td align="left"><A href="index.html"><img class="img5" src=logo.png></A>
+			<th align="center"><A href="index.html"><img class="caja3" class="img6" src=principal.png></A>
+			<th align="center"><A href="Historia.html"><img class="caja3" class="img6" src=historia.png></A>
+			<th align="center"><A href="Producto.html"><img class="caja3" class="img6" src=producto.png></A>
+			<th align="center"><A href="Contacto.html"><img class="caja3" class="img6" src=contacto.png></A>
+			<th align="center"><A href="Video.html"><img class="caja3" class="img6" src=video.png></A>
+		</tr>
+	</table>
+<center>
+	<div class="div1">
+		<h1 id="fuente-Organic">
+VENTAS
+		</h1>
+	</div>
+</center>
+<hr>
+</h1> 
+<br>
+<center>
+<h3 id="fuente-bubble-sharp">
+Ventas de los ultimos años
+</h3>
+</center>
+	<table class="table3">
+			<tr id="fuente-bubble-sharp">
+			  <td class="columna1"><strong>Paises</strong></td>
+			  <td class="columna2"><strong>Cambio porcentual según lo informado</strong></td>
+			  <td class="columna3"><strong>Impacto del cambio de moneda extranjera</strong></td>
+			  <td class="columna4"><strong>Variación porcentual en moneda constante</strong></td>
+			  <td class="columna5"><strong>Impacto de adquisiciones y desinversiones</strong></td>
+			</tr>
+			<tr id="fuente-bubble-sharp">
+			  <td class="columna1">Mexico</td>
+			  <td class="bordes">24.6%</td>
+			  <td class="bordes">6.7%</td>
+			  <td class="bordes">17.9%</td>
+			  <td class="bordes">-%</td>
+			</tr>
+			<tr id="fuente-bubble-sharp">
+			  <td class="columna1">Brazil</td>
+			  <td class="bordes">13.1%</td>
+			  <td class="bordes">26.3%</td>
+			  <td class="bordes">13.2%</td>
+			  <td class="bordes">-%</td>
+			</tr>
+			<tr id="fuente-bubble-sharp">
+			  <td class="columna1">India</td>
+			  <td class="bordes">3.0%</td>
+			  <td class="bordes">4.3%</td>
+			  <td class="bordes">1.3$</td>
+			  <td class="bordes">-%</td>
+			</tr>
+			<tr id="fuente-bubble-sharp" >
+			  <td class="columna1">China</td>
+			  <td class="bordes">46.0%</td>
+			  <td class="bordes">0.3%</td>
+			  <td class="bordes">45.7%</td>
+			  <td class="bordes">-%</td>
+			</tr>
+	</table>
+<center>
+<div class="div2">
+<A href="index.html">
+<img src=derechos.png width="100" heigth="100">
+</A>
+	<p>
+		<h6>
+		&copy;2022. Derechos reservados
+		<br>
+		Desarrollo por:Gonzazlez Chavez Isaac<br>
+		Matricula:01908699<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+		</h6>
+	</p>
+</div>
+</center>
+</font>
+
+
+</body>
+</html> 

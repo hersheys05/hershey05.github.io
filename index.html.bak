@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<title>Hershey's</title>
+		<link rel="shorcut icon" href="logo2.png">
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+	<body>
+		<img src=logo.png width="210" heigth="210">
+<center>
+	<div class="div1">
+		<h1 id="fuente-Organic">
+DISFRUTA EL SABOR DE HERSHEY'S
+		</h1>  
+	</div>
+</center>
+<hr>
+<table class="sin1">
+	<tr>
+		<th class="colores"><A href="Historia.html"><img class="img3" src=historia2.png></A>
+		<th class="colores"><A href="Producto.html"><img class="img3" src=producto2.png></A>
+		<th class="colores"><A href="Ventas.html"><img class="img3" src=ventas2.png></A>
+		<th class="colores"><A href="Contacto.html"><img class="img3" src=contacto2.png></A>
+		<th class="colores"><A href="Video.html"><img class="img3-1" src=video1.png></A>
+	</tr>
+</table>
+<hr>
+		<img class="img3-2" src=foto7.png>
+	<a href="Historia.html">
+		<img class="img3-3" src=foto7.jpg>
+	</a>
+<br>
+<br>
+<marquee behavior="alternate">
+     <img class="img"src=foto8.jpg>
+	 <img class="img"src=foto9.jpg>
+	 <img class="img2"src=foto10.jpg>
+	 <img class="img2-1"src=foto11.jpg>
+</marquee>
+<br>
+<br>
+	<a href="Producto s.html">
+		<img class="img4" src=foto4.jpg>
+	</a>
+<br> 
+	<a href="Producto sr.html"><img class="img4-1" src=foto5-1.jpg></a><a href="Producto sp.html"><img class="img4-1" src=foto5-2.jpg></a>
+<br>
+	<a href="Producto sb.html">
+		<img src=foto24.jpg width="100%">
+	</a>
+<br>
+<center>
+<div class="div2">
+<A href="Index.html">
+	<img src=derechos.png width="100" heigth="100">
+</A>
+	<p>
+		<h6>
+		&copy;2022. Derechos reservados
+		<br>
+		Desarrollo por:Gonzazlez Chavez Isaac<br>
+		Matricula:01908699<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+		</h6>
+	</p>
+</div>
+</center>
+</font>
+</body>
+</html> 

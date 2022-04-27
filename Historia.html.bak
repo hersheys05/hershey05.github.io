@@ -1,0 +1,130 @@
+<html> 
+	<head>
+		<title>Historia</title>
+		<link rel="shorcut icon" href="logo2.png">
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+<body>
+
+<table class="sin">
+	<tr>
+		<td align="left"><A href="index.html"><img class="img5" src=logo.png></A>
+		<th align="center"><A href="index.html"><img class="caja3" class="img6" src=principal.png></A>
+		<th align="center"><A href="Producto.html"><img class="caja3" class="img6" src=producto.png></A>
+		<th align="center"><A href="Ventas.html"><img class="caja3" class="img6" src=ventas.png></A>
+		<th align="center"><A href="Contacto.html"><img class="caja3" class="img6" src=contacto.png></A>
+		<th align="center"><A href="Video.html"><img class="caja3" class="img6" src=video.png></A>
+	</tr>
+</table>
+<center>
+	<div class="div1">
+		<h1 id="fuente-Organic">
+ACERCA DE NOSOTROS
+		</h1>
+	</div>
+</center>
+<hr> 
+<center>
+	<h3 id="fuente-bubble-sharp"><li>
+	Historia
+	</h3></li>
+</center>
+	<hr>
+<br>
+<table  class="tableh1">
+	<tr>
+		<th id="fuente-bubble-sharp" class="apartado1">
+			1857: Nace Milton Snavely Hershey.<br><br>
+			1876: Milton Hershey empezó su primer negocio de dulces Crystal A. Caramels.<br><br>
+			1893: Milton Hershey descubre el arte de hacer chocolate en la World Columbian Exposition, celebrada en Chicago.<br><br>
+			1900: La primera barra de chocolate con leche Hershey´s es disfrutada en Estados Unidos.<br><br>
+			1907: Salieron a la venta los primeros chocolates Kisse´s de Hershey´s.<br><br>
+			1908: Se lanzó la barra de chocolate con almendras Hershey´s en Estados Unidos.<br><br>
+			1909: La escuela Milton Hershey abrió sus puertas para niños huérfanos en Estados Unidos.<br><br>
+			1918: Milton Hershey donó toda su fortuna a la escuela Milton Hershey.<br><br>
+			1926: Apareció el jarabe sabor a chocolate Hershey's.<br><br>
+			1941-1945: Hershey's produjo más de mil millones de barras de chocolate para las tropas norteamericanas durante la segunda guerra mundial.<br><br>
+			1969: Hershey Foods Corp. y Anderson Clayton formaron Nacional de Dulces en la Ciudad de México. Y así llegaron a México los famosos productos Hershey´s.<br><br>
+			1971: Se lanzó al mercado la barra de chocolate amargo Hershey's Dark.<br><br>
+			1981: Nacional de dulces cambió sus instalaciones a El Salto, Jalisco.<br><br>
+			1985: Sale al mercado el icónico dulce enchilado sabor a tamarindo Pelón Pelo Rico.<br><br>
+			1990: Se lanzó al mercado la leche sabor chocolate de Hershey´s.<br><br>
+			1992: Hershey Foods Corp. compró el total de acciones de Nacional de Dulces y se creó Hershey México, S.A. de C.V.<br><br>
+			1994: Se introdujo la famosa barra de dulce Hershey's Cookies ´n´ Cream.<br><br>
+			2004: Hershey Mexico adquiere Grupo Lorena con marcas como: Pelón Pelo Rico y Crayon, entrando al mercado dulces de pulpa y enchilados.<br><br>
+			2010: Hersheys reforzo su estrategia de crecimiento enfocando en paises clave como: Mexico, India, China, Brasil y Canada.<br><br>
+			2011: Se introduce la paleta Pelon Peloneta y el chocolate Hersheys Smooth Bubbles.<br><br>
+			2013: Incorporacion de la marca Brookside, apertura de planta en Malasia, Golden Monkey.<br><br>
+			2017: Lanzamiento de Chocoyogo.<br><br>
+		</th>
+	<th id="fuente-bubble-sharp" class="apartado2">
+		<img class="imgh" src=fundador.png> Fundador de Hershey's
+<br>
+<br>
+<br>
+		<img class="imgh" src=fabrica.jpg>Inicios de la primera fabrica de Hershey's
+<br>
+<br>
+<br>
+		<img class="imgh" src=chocolate.jpg>Primera barra de chocolate Hershey's</th>
+	</tr>
+</table>
+<br>
+<center>
+<hr>
+	<h3 id="fuente-bubble-sharp"><li>
+	Mision
+	</h3></li>
+</center>
+	<hr>
+<br>
+<center>
+<table class="tableh2">
+<tr>
+	<th id="fuente-bubble-sharp">
+Su misión está en que cuando el consumidor disfrute uno de sus chocolates, su delicioso sabor lo acompañe mientras 
+comienza su propia serie de pequeñas buenas acciones, buscando así contagiar que “Hacer el bien, sabe bien”.
+	</th>
+</table>
+</center>
+<br>
+<hr>
+<center>
+	<h3 id="fuente-bubble-sharp"><li>
+	Vision
+	</h3></li>
+</center>
+	<hr>
+<br>
+<center>
+<table class="tableh2">
+<tr>
+	<th id="fuente-bubble-sharp">
+La base de nuestra visión de crecimiento a nivel mundial es una fuerza de trabajo 
+enérgica y diversa Nuestros ocho Grupos de recursos comerciales (Business Resource Groups, BRG) respaldan a todos y cada uno de nuestros empleados en todo el mundo mediante un entorno de trabajo inclusivo.
+		</font>
+	</th>
+</table>
+</center>
+<br>
+<center>
+<div class="div2">
+<A href="index.html">
+<img src=derechos.png width="100" heigth="100">
+</A>
+	<p>
+		<h6>
+		&copy;2022. Derechos reservados
+		<br>
+		Desarrollo por:Gonzazlez Chavez Isaac<br>
+		Matricula:01908699<br>
+		Grupo:605 <br>
+		CoBach Plantel Nueva Tijuana
+		</h6>
+	</p>
+</div>
+</center>
+</font>
+
+	</body>
+</html> 

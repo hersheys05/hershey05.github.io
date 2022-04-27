@@ -1,0 +1,507 @@
+body{
+	background:#FAF3ED;
+}	
+h1{
+	color: #3B170B;
+	font-family: arial;
+	font-size: 60px;
+	text-align: center;
+}
+h3{
+	color: #3B170B;
+	font-family: time new roman;
+	font-size: 50px;
+	text-align: center;
+}	
+p{ 
+	color: #3B170B;
+	font-family: time new roman;
+	font-size: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-style: italic;
+}
+table{
+	color: #3B170B;
+	font-family: time new roman;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+	border: 2;
+	height: 60%;
+	width: 100%;
+	border-color: #311601;
+}
+/* Esta clase es para centrar y comodar la tabla de hipervinculos de la pagina principal*/
+.sin1{
+	border-style:solid;
+	border-radius:10px;	
+	background-color:#D8D8D8;
+	border:1;
+	height:20%;
+	width: 100%;
+}
+.colores{
+	background-color:#D8D8D8;
+}
+/*este apartado es para el largo y ancho de las fotos de la pagina principal*/
+.img{
+	width:1100px;
+	height:750px;
+}
+.img2{
+	width:1000px;
+	height:750px;
+}
+.img2-1{
+	width:800px;
+	height:750px;
+}
+.img3{
+	width:120px;
+	height:120px;
+}
+.img3-1{
+	width:130px;
+}
+.img3-2{
+	width:100%;
+	height:27%;
+}
+.img3-3{
+	width:100%;
+	height:50%;
+}
+.img4{
+	width:100%;
+}
+.img4-1{
+	width:50%;
+	height:50%;
+}
+/* Este apartado es para la tabla de hipervinculos de las paginas secundarias*/
+.sin{
+	border-style:solid;
+	border-radius:10px;
+	border-color:#000000;
+	border:1;
+	background-color: #FFFFFF;
+	height:20%;
+}
+.img5{
+	width:300px;
+}
+.img6{
+	width:100px;
+	height:100px;
+}
+/* Esta clase es para agregar poner un recuadro al encabezado y los derechos de autor de cada pagina*/
+div{
+}
+.div1{
+	background:#F8ECE0;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:20%;
+	width:100%;
+}
+.div2{
+	background:#F8ECE0;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:20%;
+	width:100%;
+}
+/* Esta clase es para las tablas de la pagina de historia*/
+.tableh1{
+	
+	height: 30%;
+	width: 100%;
+	border-style:transparent;
+	border-color: transparent;
+}
+.apartado1{
+	color: #3B170B;
+	font-family: arial;
+	font-size: 25px;
+	text-align: left;
+	font-weight: bold;
+	width:65%;
+}
+.apartado2{
+	width:35%;
+	background-color:#D8D8D8;
+	font-family: arial;
+}
+.tableh2{
+	color: #3B170B;
+	font-family: arial;
+	font-size: 25px;
+	text-align: left;
+	font-weight: bold;
+	height: 30%;
+	width: 90%;
+	border-color: #311601;
+	border-radius:10px;
+}
+.imgh{
+	width:95%;
+	border-radius:10px;
+}
+/* Esta clase es para poner border, color, centrar la tabla de productos*/
+.table1{
+	margin:3 auto;
+	color: #3B170B;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	height: 90%;
+	width: 90%;
+	border-color: #000000;
+	border:2;
+	border-style: solid;
+	border-collapse:collapse;
+}
+.renglon{
+	margin:3 auto;
+	background-color: #D8D8D8;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	height: 90%;
+	width: 90%;
+	border-color: #000000;
+	border:2;
+	border-style: solid;
+	border-collapse:collapse;
+}
+.bordes1{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#D8D8D8;
+}
+.columna{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F7F2E0;
+}
+.fonybor{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#FFFFFF;
+}
+.img7{
+	width:450px;
+}
+.img7-1{
+	width:250px;
+}
+.img7-2{
+	width:180px;
+	height:375;
+}
+.img7-21{
+	width:210px;
+	height:375;
+}
+.img7-3{
+	width:250px;
+	height:375;
+}
+.img7-4{
+	width:400px;
+	height:375;
+}
+.img8.{
+	width:550px;
+}
+.img9{
+	width:300;
+}
+.caja{
+	height:460px;
+	width:555px;
+	background:#FFFFFF;
+	border-radius:10px;
+	border:1px solid #000000;
+	margin:5px;
+	color:black;
+	text-align:center;
+	font-family:time new roman;
+	display:inline-block;
+}
+.caja2{
+	height:300px;
+	width:555px;
+	border-radius:10px;
+	background:#FFFFFF;
+	border:1px solid #000000;
+	margin:5px;
+	color:black;
+	text-align:center;
+	font-family:time new roman;
+	display:inline-block;
+}
+.caja3{
+	width:50%;
+	border-radius:10px;
+	display:inline-block;
+}
+
+.caja2:hover{
+			/* x y radio color*/
+	box-shadow:0 0 10px #3B240B;
+	/*escala de tamaño de la caja*/
+	transform:scale(1.3,1.3);			
+}
+.caja3:hover{
+			/* x y radio color*/
+	box-shadow:0 0 10px #3B240B;
+	/*escala de tamaño de la caja*/
+	transform:scale(1.3,1.3);			
+}
+.caja:hover{
+			/* x y radio color*/
+	box-shadow:0 0 10px #3B240B;
+	/*escala de tamaño de la caja*/
+	transform:scale(1.3,1.3);			
+}
+.caja-texto{
+	padding-bottom:5px;
+	padding-top:4px;
+	font-size:30px;
+	color:3B170B;
+	font-weight:bold;
+}
+.texto-adicional{
+	padding-top:5px;
+	font-size:25px;
+	color:#190B07;
+}
+.div-productos{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:125%;
+	width:100%;
+}
+.div-productosS{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:35%;
+	width:100%;
+}
+.div-productosSB{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:53%;
+	width:100%;
+}
+.div-productosSP{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:53%;
+	width:100%;
+}
+.div-productosSR{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 6 auto;
+	height:35%;
+	width:100%;
+}
+.div-productos2{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:31%;
+	width:100%;
+}
+.div-productos3{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:34%;
+	width:100%;
+}
+.div-productos4{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:36%;
+	width:100%;
+}
+.div-productos5{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:41%;
+	width:100%;
+}
+.div-productos6{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:44%;
+	width:100%;
+}
+.div-productos7{
+	background:#D8D8D8;
+	border:2;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#D8D8D8;
+	margin: 5 auto;
+	height:44%;
+	width:100%;
+}
+.tableps{
+		margin:8 auto;
+		border-radius:10px;
+		border:transparent;
+		background:#FFFFFF;
+}
+/* Esta clase es para agregar color al texto, centrar y agrgar color a la tabla de ventas*/
+.table3{
+	margin:3 auto;
+	font-family: Arial;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	height: 90%;
+	width: 90%;
+	border-color: #000000;
+	border:2;
+	border-style: solid;
+	border-collapse:collapse;
+}
+.columna1{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F2F5A9;
+}
+.columna2{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F3E2A9;
+}
+.columna3{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F5D0A9;
+}
+.columna4{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F5BCA9;
+}
+.columna5{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F5A9A9;
+}
+.bordes{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#FFFFFF; 
+}
+/* Esta clase es para centrar el texto y la tabla asi como el color de letra en la tabla de la pagina de contacto*/
+.contac{
+	margin: 5 auto;
+	border-collapse: collapse;
+	color: #FFFFFF;
+	font-family: time new roman;
+	font-size: 25px;
+	text-align: center;
+	font-weight: bold;
+	height: 25%;
+	width: 27%;
+	border-color: #311601;
+	border:2;
+	border-style: solid;
+	background-image: url('fondo.jpg'); 
+	background-size: 700px 700px;
+	background-position:center;
+}
+.columna{
+	border-style: solid;
+	border:2;
+	border-color: #311601;
+	background-color:#F7F2E0;
+}
+/*Esta clase es para los encabezados de la tabla de contacto*/
+.divc{
+	background:#3B170B;
+	border:1;
+	border-radius:10px;
+	border-style:solid;
+	border-color:#3B170B;
+	height:13%;
+	width:21%;
+	margin:5 auto;
+}
+/*este apartado es para el tipo de fuente*/
+@font-face{
+	font-family:"mifuente";
+	src: url(Organic-Relief.ttf);
+}
+#fuente-Organic{
+	font-family:"mifuente";
+}
+@font-face{
+	font-family:"mifuente2";	
+	src: url(bubble-sharp.ttf);
+}
+#fuente-bubble-sharp{
+	font-family:"mifuente2";
+}
